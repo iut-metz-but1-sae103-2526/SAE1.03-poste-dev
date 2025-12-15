@@ -1,0 +1,12 @@
+{
+  "name": "Debian Bash - SAE 1.03",
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  }
+}
